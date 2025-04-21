@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julnar Nabeel</h1>
-<h3 align="center">A passionate frontend developer from Sharjah,UAE</h3>
+<h3 align="center">A passionate Front-End developer from Sharjah,UAE</h3>
 
 - 🔭 I’m currently working on [integrating Strapi CMS in Admin Dashboard Application](https://store-sentry-admin-dashboard.vercel.app/)
 
